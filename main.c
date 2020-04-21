@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int resta_enteros(int a, int b){
+float resta(float a, float b){
 	return a-b;
 }
 
