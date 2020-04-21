@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+float resta(float a, float b){
+	return a-b;
+}
 
 int suma(int a, int b){
 	return a+b;
